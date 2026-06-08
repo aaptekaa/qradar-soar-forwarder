@@ -1,4 +1,4 @@
-<img width="318" height="39" alt="image" src="https://github.com/user-attachments/assets/c1491388-b00d-42dc-beda-9d0a1deebb03" /># QRadar SIEM → IBM SOAR Auto Forwarder
+# QRadar SIEM → IBM SOAR Auto Forwarder
 
 Automatically forwards offenses from **IBM QRadar SIEM** to **IBM QRadar SOAR** as incidents. Runs as a systemd service, polling SIEM every 60 seconds.
 
