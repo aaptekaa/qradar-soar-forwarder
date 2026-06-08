@@ -116,3 +116,5 @@ MIN_MAGNITUDE = 0  # forward all (default)
 - **RHEL** 8.x / systemd
 
 <img width="940" height="327" alt="image" src="https://github.com/user-attachments/assets/df98c01d-c7d8-4b40-b580-c5b0196af601" />
+<img width="1867" height="542" alt="image" src="https://github.com/user-attachments/assets/e2c119f5-ebcf-4182-8946-014ee1189fa9" />
+
