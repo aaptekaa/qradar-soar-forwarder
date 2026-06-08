@@ -1,0 +1,13 @@
+[Unit]
+Description=SOAR Auto QRadar Offense Forwarder
+After=network.target
+
+[Service]
+Type=simple
+User=root
+ExecStart=/usr/bin/python3 /opt/soar-ad-enrichment/auto_forwarder.py
+Restart=always
+RestartSec=15
+
+[Install]
+WantedBy=multi-user.target
