@@ -114,3 +114,5 @@ MIN_MAGNITUDE = 0  # forward all (default)
 - **IBM QRadar SOAR** 51.x
 - **Python** 3.6+
 - **RHEL** 8.x / systemd
+
+<img width="940" height="327" alt="image" src="https://github.com/user-attachments/assets/df98c01d-c7d8-4b40-b580-c5b0196af601" />
